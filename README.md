@@ -77,10 +77,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
-  212222040064
-  Jeya Krishna S J 
-  CSE I
-  
+ ```
  #define fsrpin A0 
 #define led1 2
 #define led2 3
@@ -132,19 +129,8 @@ void loop() {
                 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ ```
+
 
 ![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
